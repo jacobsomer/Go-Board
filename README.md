@@ -139,5 +139,8 @@ Contact
 For any questions or feedback, please contact:
 
 - Name: Jacob Somer
-- Twitter: https://x.com/jacob_somer_
+- X: https://x.com/jacob_somer_
 - GitHub: https://github.com/jacobsomer
+
+
+
